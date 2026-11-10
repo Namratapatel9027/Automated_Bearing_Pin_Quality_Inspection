@@ -94,10 +94,10 @@ Both detection models were evaluated on held-out test data.
 | Evaluation metric | Bearing Detection | Pin Detection |
 |---|---:|---:|
 | mAP@50 | **95.2%** | **94.6%** |
-| mAP@50-95 | Not reported | Not reported |
-| Precision | Not reported | Not reported |
-| Recall | Not reported | Not reported |
-| F1-score | Not reported | Not reported |
+| mAP@50-95 | **88.5%** | **58.2%** |
+| Precision | **96.6%** | **95.2%** |
+| Recall | **95.4%** | **93.7%** |
+| F1-score | **95.9%** | **96.6%** |
 
 *Note: Reported mAP@50 values represent the respective detection models, not the final OK/NG classification accuracy.*
 
