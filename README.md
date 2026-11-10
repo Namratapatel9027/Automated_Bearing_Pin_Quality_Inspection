@@ -1,4 +1,4 @@
-# Automated Bearing Quality Inspection System
+# Automated Bearing Pin Quality Inspection System
 ### Multi-Stage Deep Learning for Industrial Visual Quality Control
 
 An automated industrial Computer Vision system designed to inspect multiple bearings from a single tray image, detect missing pins, and classify individual bearings as **OK (Good)** or **NG (Defective)** using a two-stage YOLOv8 detection pipeline.
